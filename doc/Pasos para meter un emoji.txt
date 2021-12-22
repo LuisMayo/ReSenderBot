@@ -1,0 +1,9 @@
+Pasos para meter un emoji
+En Bot.java
+	Mete una variable para almacenar el emoji, junto a upVote,downVote...
+	En el constructor de Bot asignale el valor usando el EmojiManager
+	En el enum Votes meter el nuevo voto
+	Cambia el método makeKeyboard para añadir el emoji
+		Arreglar las dos llamadas a makeKeyboard
+	Meter en el RequestDispatcher el nuevo emoji en el switch para confirmar la callback
+	

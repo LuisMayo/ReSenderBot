@@ -1,0 +1,15 @@
+{
+    "reserva": false,
+    "token": "521802326:AAG-z2fTusY-gAAEvwZnMNLT-tXDj1_atVg",
+    "chatTo": -1001329913017,
+    "chatFrom": -312615284,
+    "publishUpdatesOn": -312615284,
+    "authChats": [
+        {
+            "chatId": -312615284
+        },
+        {
+            "chatId": -312615284
+        }
+    ]
+}
